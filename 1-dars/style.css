@@ -1,0 +1,56 @@
+h1{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 2px solid red;
+    text-align: center;
+}
+
+
+
+
+
+span{
+    color: brown;
+}
+
+li{ color: green;}
+
+
+
+.mm{
+    color: red;
+}
+.yy{
+    color: yellow;
+}
+.tt{
+    color: greenyellow;
+}
+
+.ii{
+    color: gray;
+}
+caption{
+    background-color: yellow;
+}
+table ,td , th , tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: red;
+}
+td{
+    background-color: darkviolet;
+}
+.jj{
+    background-color: green;
+}
+button{
+    width: 300px;
+    height: 30px;
+    background-color: greenyellow;
+}
+img{
+    width: 500px;
+}
